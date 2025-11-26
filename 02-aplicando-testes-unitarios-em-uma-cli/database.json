@@ -1,0 +1,142 @@
+[
+  {
+    "email": "iamthe@admin.com",
+    "userName": "admin",
+    "password": "admin",
+    "name": "Ad",
+    "lastName": "Min",
+    "uid": "63daa588-c928-4451-9b20-98df9e4d2cf3",
+    "avatar": "https://cdn.fakercloud.com/avatars/michaelcomiskey_128.jpg",
+    "role": "ADMIN"
+  },
+  {
+    "email": "Ozella49@gmail.com",
+    "userName": "Jeramie67",
+    "password": "OwEn36pAmh8C58b",
+    "name": "Sarah",
+    "lastName": "Dare",
+    "uid": "b14b0ac5-3b46-4fa8-89b8-0d1e4c257495",
+    "avatar": "https://cdn.fakercloud.com/avatars/terryxlife_128.jpg",
+    "role": "ADMIN"
+  },
+  {
+    "email": "Shanie_Fay@yahoo.com",
+    "userName": "Jean21",
+    "password": "Y5w5IeipLE1ur6L",
+    "name": "Mable",
+    "lastName": "Graham",
+    "uid": "f2f0ebdf-225e-4d06-bd00-ad4cd334aa74",
+    "avatar": "https://cdn.fakercloud.com/avatars/motionthinks_128.jpg",
+    "role": "ADMIN"
+  },
+  {
+    "email": "Josue_Schuppe47@yahoo.com",
+    "userName": "Enrico87",
+    "password": "FBqmRh0o__qI8TR",
+    "name": "Kenyon",
+    "lastName": "Grant",
+    "uid": "d93ed5fc-8018-44bc-bb92-bf72a6c71c19",
+    "avatar": "https://cdn.fakercloud.com/avatars/turkutuuli_128.jpg",
+    "role": "ADMIN"
+  },
+  {
+    "email": "Eusebio_Jakubowski@hotmail.com",
+    "userName": "Dino_Lindgren77",
+    "password": "0rdkoxQUyjjNvn_",
+    "name": "Autumn",
+    "lastName": "Weber",
+    "uid": "1b399bad-31d6-4e0e-a385-eac5753b6ed9",
+    "avatar": "https://cdn.fakercloud.com/avatars/geran7_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Maegan.Turcotte@gmail.com",
+    "userName": "Tavares_Padberg63",
+    "password": "Tn1JmJpPRbDKu58",
+    "name": "Deon",
+    "lastName": "Wiza",
+    "uid": "fe579430-d737-47d1-8f5d-a8d3d02c1020",
+    "avatar": "https://cdn.fakercloud.com/avatars/d33pthought_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Rossie.Littel@yahoo.com",
+    "userName": "Claudia.Kuhn",
+    "password": "mnv6qtnOWNMqnUN",
+    "name": "Jamir",
+    "lastName": "Larson",
+    "uid": "877bcbfa-0f82-4b7f-8b77-69808260e269",
+    "avatar": "https://cdn.fakercloud.com/avatars/juaumlol_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Sandra_Carter@gmail.com",
+    "userName": "Retha.Rath",
+    "password": "aDDDx42jah6nBp1",
+    "name": "Mafalda",
+    "lastName": "Gerhold",
+    "uid": "5fde02b5-6c06-477b-acf9-9f13d61ed447",
+    "avatar": "https://cdn.fakercloud.com/avatars/poormini_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Garth96@gmail.com",
+    "userName": "Lacey.Kemmer",
+    "password": "eS6_HQCSgXJ9JEM",
+    "name": "Chaz",
+    "lastName": "Bergnaum",
+    "uid": "aecd5271-e793-4a3d-8c4c-a901441c7166",
+    "avatar": "https://cdn.fakercloud.com/avatars/agromov_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Breana.Monahan57@gmail.com",
+    "userName": "Maeve_Gibson3",
+    "password": "3GVYN4IPPpnan9R",
+    "name": "Annabelle",
+    "lastName": "Welch",
+    "uid": "36d85a2e-eaf6-43bd-b349-349f98837f6d",
+    "avatar": "https://cdn.fakercloud.com/avatars/jwalter14_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Lelia30@gmail.com",
+    "userName": "Golden.Ondricka54",
+    "password": "D1b6knln2VQuM36",
+    "name": "Barton",
+    "lastName": "Runolfsdottir",
+    "uid": "9747b1ce-0565-49ba-9763-3db59b9b059b",
+    "avatar": "https://cdn.fakercloud.com/avatars/holdenweb_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Brent.Block@gmail.com",
+    "userName": "Robb_Mitchell",
+    "password": "BjfMEB_Oo0E7ttC",
+    "name": "Rylee",
+    "lastName": "Mohr",
+    "uid": "0bd0bb3a-1cd5-4508-965f-9ffa38d7e7d0",
+    "avatar": "https://cdn.fakercloud.com/avatars/curiousoffice_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Alphonso.Miller@yahoo.com",
+    "userName": "Patricia_Labadie59",
+    "password": "kghqvCzheMZm6TZ",
+    "name": "Lyda",
+    "lastName": "Witting",
+    "uid": "3bee45d4-d18c-48b0-afcf-3e9a3557058d",
+    "avatar": "https://cdn.fakercloud.com/avatars/strikewan_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Percival_Raynor41@hotmail.com",
+    "userName": "Orrin_Collier3",
+    "password": "wS6hf1_BOld3xbX",
+    "name": "Fred",
+    "lastName": "Aufderhar",
+    "uid": "348c22d8-4e1e-46cb-a214-63fc31542c3a",
+    "avatar": "https://cdn.fakercloud.com/avatars/gregsqueeb_128.jpg",
+    "role": "USER"
+  }
+]
